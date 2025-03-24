@@ -6,7 +6,7 @@ const App = () => {
 const [selectedCategory, setSelectedCategory] = useState("Male");
 
 const products = {
-  Male: ["Shirt", "Facial-grooming kits", "Hair styling", "Jeans", "Shoes"],
+  Male: ["Shirts", "Facial-grooming kits", "Hair styling", "Jeans", "Shoes"],
   Female: ["Tops", "Skirts", "Makeup items", "Jewellery", "Sandals"],
 };
 
